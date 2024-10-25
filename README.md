@@ -28,6 +28,19 @@
         <li>
           Lucas Rochel Rasquinho - Ensino Médio - termino 2025
         </li>
-        
+
+        <h2>CURSOS EXTRAS CURRICULARES</h2>
+<div style="height:100px ;height: 100px; background-color: darkgray;">
+</div>
+
+ <ul id="educa2">
+        <li>
+          Web desing - 2025 - Futura centro de treinamento profissional 
+        </li>
+
+        <li>
+        Informatica - 2023 - Futura centro de treinamento profissional
+        </li>
+
 </body>
 </html>
